@@ -1,7 +1,7 @@
 # ER_fluctuating_environment
 Matlab implementation of the code described in "Evolutionary rescue in a fluctuating environment", by Loïc Marrec and Claudia Bank.
 
-Archived version: To come.
+Archived version: https://doi.org/10.5281/zenodo.7886833 
 
 Briefly, we perform stochastic simulations of a population evolving in a fluctuating environment where two types of individuals exist, namely wild-type and mutant. The environmental fluctuations can be either deterministic or stochastic.
 
