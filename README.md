@@ -1,5 +1,5 @@
 # ER_fluctuating_environment
-Matlab implementation of the code described in "Evolutionary rescue in a fluctuating environment", by Loïc Marrec and Claudia Bank.
+Matlab implementation of the code described in "[Evolutionary rescue in a fluctuating environment](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)", by Loïc Marrec and Claudia Bank.
 
 Archived version: https://doi.org/10.5281/zenodo.7886833 
 
@@ -9,4 +9,4 @@ In order to use the code, please run either "generate_data_deterministic" (for d
 
 The source code is freely available under the GNU GPLv3 license.
 
-If you find this code useful for your research, please cite the associated reference, "Evolutionary rescue in a fluctuating environment", by Loïc Marrec and Claudia Bank.
+If you find this code useful for your research, please cite the associated reference, "[Evolutionary rescue in a fluctuating environment](https://www.biorxiv.org/content/10.1101/2022.11.03.515107v1)", by Loïc Marrec and Claudia Bank.
