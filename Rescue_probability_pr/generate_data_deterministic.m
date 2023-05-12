@@ -1,4 +1,4 @@
-% This code was created by Loïc Marrec
+% This code was created by Loïc Marrec (loic.marrec.unibe.ch)
 
 clear all;
 close all;
